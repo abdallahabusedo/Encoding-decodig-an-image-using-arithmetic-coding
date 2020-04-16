@@ -1,0 +1,9 @@
+shape for the 
+input 1 (533,666)
+input 2 (1080,900)
+input 3 (350,623)
+
+assignment 2 
+abdallah abu sedo 
+sec 2 
+bin 3
